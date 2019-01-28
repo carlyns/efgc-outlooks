@@ -35,8 +35,6 @@
 18. Giving summary for Professional Advisory Board for CEO
 19. Cleanup and record creation for PAB members
 20. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-21. 
-22. Salesforce support questions regarding Salutations and Search Layouts
 
 23. Started testing slight improvements to field inconsistencies. >> to next week
 
@@ -46,7 +44,7 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NjIxNzQ5LDIxMDMxMDMwOTAsMTAxNT
-cwNTA0MywtMTc2MzUzNDU0NSwtMTEwNjM0NTc4LC0zNzc1MjU3
-NzhdfQ==
+eyJoaXN0b3J5IjpbMTA4NzQ0MTQ0OSwyMTAzMTAzMDkwLDEwMT
+U3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYzNDU3OCwtMzc3NTI1
+Nzc4XX0=
 -->
