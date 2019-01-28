@@ -24,7 +24,7 @@
 7. Notified DonorDrive donors about switch to Classy platform
 8. Reviewed Finance process for manually issuing checks
 9. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
-10.Fol 
+10.Follow up with Classy support ticket regarding address fields from Supporters VS Atten
 
 
 11. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
@@ -49,6 +49,6 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTc5NTExOCwtMTEwNjM0NTc4LC0zNz
+eyJoaXN0b3J5IjpbMTIwNzQwMzI5NSwtMTEwNjM0NTc4LC0zNz
 c1MjU3NzhdfQ==
 -->
