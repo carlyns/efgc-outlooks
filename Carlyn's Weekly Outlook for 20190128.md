@@ -23,24 +23,25 @@
 6. Recorded Letter Queue Updating and Org Donation Entry video guides
 7. Notified DonorDrive donors about switch to Classy platform
 8. Reviewed Finance process for manually issuing checks
-9. 
+9. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
+10.Fol 
 
 
-10. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
-11. Streamlined picklist behavior for “XX” Donation field >> to next week
-12. Monthly report for development: Extra donor recognition >> to next week
+11. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
+12. Streamlined picklist behavior for “XX” Donation field >> to next week
+13. Monthly report for development: Extra donor recognition >> to next week
 
 
 */// Additional SF issues addressed: ///*
-13. Communicated with TEK for more information about field inconsistencies and how it was built
-14. Investigated new data issue with addresses of 2600 Client records missing City, State values
-15. Giving summary for Professional Advisory Board for CEO
-16. Cleanup and record creation for PAB members
-17. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-18. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
-19. Salesforce support questions regarding Salutations and Search Layouts
+14. Communicated with TEK for more information about field inconsistencies and how it was built
+15. Investigated new data issue with addresses of 2600 Client records missing City, State values
+16. Giving summary for Professional Advisory Board for CEO
+17. Cleanup and record creation for PAB members
+18. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
+19. 
+20. Salesforce support questions regarding Salutations and Search Layouts
 
-20. Started testing slight improvements to field inconsistencies. >> to next week
+21. Started testing slight improvements to field inconsistencies. >> to next week
 
 
 - - - -
@@ -48,5 +49,6 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYzNDU3OCwtMzc3NTI1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTcwMTc5NTExOCwtMTEwNjM0NTc4LC0zNz
+c1MjU3NzhdfQ==
 -->
