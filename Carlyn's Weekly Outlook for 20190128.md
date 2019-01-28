@@ -10,8 +10,8 @@
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. ?? Test phone/email/address field consolidation in testing (UAT) sandbox.
 2. ?? Understand potential of Campaigns to solve Engagement History tracking issue (and to manage Mailings and Volunteers)
-3. Resolve Address data issue of 2600 fields that were mis-corrected by TEK
-4. ?? Create plan to address Import Issues: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws and error, sometimes “Upsert” too.  c) Test matching by email process.
+3. Document Address data issue of 2600 fields that were mis-corrected by TEK; (and other Data VS UI issues that are red flags)
+4. ?? Create plan to address Import Issues: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws and error, sometimes “Upsert” too.  c) Test matching by email process. >> to another week
 
 - - - -
 #### Last Week's Summary:
@@ -45,5 +45,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODYyNzM0LC0zNzc1MjU3NzhdfQ==
+eyJoaXN0b3J5IjpbODI3NDI0MTE0LC0zNzc1MjU3NzhdfQ==
 -->
