@@ -30,10 +30,10 @@
 
 */// Additional SF issues addressed: ///*
 11. Communicated with TEK for more information about field inconsistencies and how it was built
-12. Investigated 
+12. Investigated new data issue with addresses of 2600 Client records missing City, State values
 13. Giving summary for Professional Advisory Board for CEO
 14. Cleanup and record creation for PAB members
-15. Started testing slight improvements to field inconsistencies.
+15. Started testing slight improvements to field inconsistencies. >> to next week
 16. Generated reports to hone in on potential duplicate records and households.  
 17. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
 18. 
@@ -45,5 +45,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTAzOTc2MywtMzc3NTI1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTc3ODI0MjI4NCwtMzc3NTI1Nzc4XX0=
 -->
