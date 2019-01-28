@@ -18,14 +18,14 @@
 1. Fine-tuned the 3-step plan to improvements to field inconsistencies: UI in UAT > UI in Production > moving data in Production
 2. Extracted the remaining Giftworks data from 10 previous mailers.  Extracted remaining Giftworks notes regarding walk captains.
 3. Created and cleaned three Community Volunteers email lists.
-4. 
+4. Contacted SF support regarding import issue: matching by external ID
+9. Prepped online gifts (standard and tribute) for import
+10. Recorded Letter Queue Updating and Org Donation Entry video guides
+
 
 5. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
 6. Streamlined picklist behavior for “XX” Donation field >> to next week
 7. Monthly report for development: Extra donor recognition >> to next week
-8. Contacted SF support regarding import issue: matching by external ID
-9. Prepped online gifts (standard and tribute) for import
-10. Recorded Letter Queue Updating and Org Donation Entry video guides
 
 
 */// Additional SF issues addressed: ///*
@@ -34,7 +34,7 @@
 13. Giving summary for Professional Advisory Board for CEO
 14. Cleanup and record creation for PAB members
 15. Started testing slight improvements to field inconsistencies. >> to next week
-16. Generated reports to hone in on potential duplicate records and households.  
+16. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
 17. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
 18. 
 19. Salesforce support questions
@@ -45,5 +45,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODI0MjI4NCwtMzc3NTI1Nzc4XX0=
+eyJoaXN0b3J5IjpbLTE5NTU0NDI4MywtMzc3NTI1Nzc4XX0=
 -->
