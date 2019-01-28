@@ -25,18 +25,19 @@
 7. Monthly report for development: Extra donor recognition >> to next week
 8. Contacted SF support regarding import issue: matching by external ID
 9. Prepped online gifts (standard and tribute) for import
-10. Recorded Letter Queue Updating and Org Donation Entry video guides?
+10. Recorded Letter Queue Updating and Org Donation Entry video guides
 
 
 */// Additional SF issues addressed: ///*
 11. Communicated with TEK for more information about field inconsistencies and how it was built
-12. Giving summary for Professional Advisory Board for CEO
-13. Cleanup and record creation for PAB members
-14. Started testing slight improvements to field inconsistencies.
-15. Generated reports to hone in on potential duplicate records and households.  
-16. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
-17. 
-18. Salesforce support questions
+12. Investigated 
+13. Giving summary for Professional Advisory Board for CEO
+14. Cleanup and record creation for PAB members
+15. Started testing slight improvements to field inconsistencies.
+16. Generated reports to hone in on potential duplicate records and households.  
+17. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
+18. 
+19. Salesforce support questions
 
 
 - - - -
@@ -44,5 +45,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY1Mzg4NTksLTM3NzUyNTc3OF19
+eyJoaXN0b3J5IjpbLTk5OTAzOTc2MywtMzc3NTI1Nzc4XX0=
 -->
