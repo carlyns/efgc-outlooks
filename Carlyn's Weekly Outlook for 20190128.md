@@ -6,6 +6,7 @@
 * Letter Generation and Record Updates
 * Continue basic SF documentation - videos
 * Weekly Data Cleanup
+* Verify checks for finance   >> to next week
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. ?? Test phone/email/address field consolidation in testing (UAT) sandbox.
@@ -25,26 +26,27 @@
 8. Reviewed Finance process for manually issuing checks
 9. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
 10. Follow up with Classy support ticket regarding address fields from Supporters VS Attendees not available for the Donation Reports.  >> to next week
-11. Extracted remaining Giftworks notes and DonorDrive data regarding walk captains.  >> to next weekExported Giftworks archive data.   >> to next week
+11. Extracted remaining Giftworks notes and DonorDrive data regarding walk captains.  >> to next week
+12. Exported Giftworks archive data.   >> to next week
 
 
 
 
-12. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
-13. Streamlined picklist behavior for “XX” Donation field >> to next week
-14. Monthly report for development: Extra donor recognition >> to next week
+13. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
+14. Streamlined picklist behavior for “XX” Donation field >> to next week
+15. Monthly report for development: Extra donor recognition >> to next week
 
 
 */// Additional SF issues addressed: ///*
-15. Communicated with TEK for more information about field inconsistencies and how it was built
-16. Investigated new data issue with addresses of 2600 Client records missing City, State values
-17. Giving summary for Professional Advisory Board for CEO
-18. Cleanup and record creation for PAB members
-19. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-20. 
-21. Salesforce support questions regarding Salutations and Search Layouts
+16. Communicated with TEK for more information about field inconsistencies and how it was built
+17. Investigated new data issue with addresses of 2600 Client records missing City, State values
+18. Giving summary for Professional Advisory Board for CEO
+19. Cleanup and record creation for PAB members
+20. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
+21. 
+22. Salesforce support questions regarding Salutations and Search Layouts
 
-22. Started testing slight improvements to field inconsistencies. >> to next week
+23. Started testing slight improvements to field inconsistencies. >> to next week
 
 
 - - - -
@@ -52,6 +54,6 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgyMjAyNTksMTAxNTcwNTA0MywtMT
+eyJoaXN0b3J5IjpbLTExNDA0NjMyMTEsMTAxNTcwNTA0MywtMT
 c2MzUzNDU0NSwtMTEwNjM0NTc4LC0zNzc1MjU3NzhdfQ==
 -->
