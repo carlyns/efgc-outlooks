@@ -15,10 +15,10 @@
 - - - -
 #### Last Week's Summary:
 1. Fine-tuned the 3-step plan to improvements to field inconsistencies: UI in UAT > UI in Production > moving data in Production
-2. Gathered more feedback from case managers for Contact Info Field Consolidation
+2. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
 3. Extracted the remaining Giftworks data from 10 previous mailers.  Extracted remaining Giftworks notes regarding walk captains.
-4. Streamlined picklist behavior for “XX” Donation field
-5. Monthly report for development: Extra donor recognition
+4. Streamlined picklist behavior for “XX” Donation field >> to next week
+5. Monthly report for development: Extra donor recognition >> to next week
 6. Contacted SF support regarding import issue: matching by external ID
 7. Prepped online gifts (standard and tribute) for import?
 8. Recorded Letter Queue Updating and Org Donation Entry video guides?
@@ -39,5 +39,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzUyNTc3OF19
+eyJoaXN0b3J5IjpbMTY5OTk4NDQwMiwtMzc3NTI1Nzc4XX0=
 -->
