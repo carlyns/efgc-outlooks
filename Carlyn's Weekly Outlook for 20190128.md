@@ -8,13 +8,13 @@
 * Weekly Data Cleanup
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
-1. Document data model/structure issues for reference
+1. Document data model/structure issues that are usability roadblocks for reference
 2. Test phone/email/address field consolidation in testing (UAT) sandbox.
-3. Understand potential of Campaigns to solve Engagement History tracking issue (and to manage Mailings and Volunteers)
+3. Understand potential of Campaigns to solve Engagement History tracking issue
 
 - - - -
 #### Last Week's Summary:
-1. Fine-tuned the 3-step plan to improvements to field inconsistencies: UI in UAT > UI in Production > moving data in Production
+1. Fine-tuned the 3-step plan to address field inconsistencies: UI in UAT > UI in Production > moving data in Production
 2. Extracted the remaining Giftworks data from 10 previous mailers.  
 3. Created and cleaned three Community Volunteers email lists.
 4. Prepped and imported online gifts (standard and tribute)
@@ -35,7 +35,7 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDk1MDcwOSwyMTAzMTAzMDkwLDEwMT
+eyJoaXN0b3J5IjpbLTYwNzEwODU3MiwyMTAzMTAzMDkwLDEwMT
 U3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYzNDU3OCwtMzc3NTI1
 Nzc4XX0=
 -->
