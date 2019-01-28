@@ -8,7 +8,7 @@
 * Weekly Data Cleanup
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
-1. Document data model/structure issues for reference (incl. Address data issue of 2600 fields that were mis-corrected by TEK as a classic example of Data VS UI issues that are red flags)
+1. Document data model/structure issues for reference
 2. Test phone/email/address field consolidation in testing (UAT) sandbox.
 3. Understand potential of Campaigns to solve Engagement History tracking issue (and to manage Mailings and Volunteers)
 
@@ -24,11 +24,9 @@
 8. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
 9. Giving summary for Professional Advisory Board for CEO
 
-
-
 */// Additional SF issues addressed: ///*
 10. Communicated with TEK for more information about field inconsistencies and how it was built
-11. Investigated new data issue with addresses of 2600 Client records missing City, State values
+11. Discovered data issue with addresses of 2600 Client records missing City, State values
 12. Cleanup and record creation for PAB members
 13. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
 
@@ -37,7 +35,7 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MjM2MTAsMjEwMzEwMzA5MCwxMDE1Nz
-A1MDQzLC0xNzYzNTM0NTQ1LC0xMTA2MzQ1NzgsLTM3NzUyNTc3
-OF19
+eyJoaXN0b3J5IjpbMTI5NDk1MDcwOSwyMTAzMTAzMDkwLDEwMT
+U3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYzNDU3OCwtMzc3NTI1
+Nzc4XX0=
 -->
