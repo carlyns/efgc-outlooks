@@ -12,7 +12,7 @@
 2. Test phone/email/address field consolidation in testing (UAT) sandbox
 3. Understand potential of Campaigns to solve Engagement History tracking issue
 
-- - - -
+----
 #### Last Week's Summary:
 1. Fine-tuned the 3-step plan to address field inconsistencies: UI in UAT > UI in Production > moving data in Production
 2. Extracted the remaining Giftworks data from 10 previous mailers
@@ -35,7 +35,7 @@
 *By midQ3:* Engagement Records, Mailer Process, Refined Gift Processing, Start Documentation
 *By endQ4:* Registration, Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDY1Nzg4MCwyMTAzMTAzMDkwLDEwMT
-U3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYzNDU3OCwtMzc3NTI1
-Nzc4XX0=
+eyJoaXN0b3J5IjpbLTE3MzkwOTA1MzgsMTUwMDY1Nzg4MCwyMT
+AzMTAzMDkwLDEwMTU3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYz
+NDU3OCwtMzc3NTI1Nzc4XX0=
 -->
