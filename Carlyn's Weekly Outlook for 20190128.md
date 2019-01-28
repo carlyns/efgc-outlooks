@@ -16,7 +16,7 @@
 - - - -
 #### Last Week's Summary:
 1. Fine-tuned the 3-step plan to improvements to field inconsistencies: UI in UAT > UI in Production > moving data in Production
-2. Extracted the remaining Giftworks data from 10 previous mailers.  Extracted remaining Giftworks notes regarding walk captains.
+2. Extracted the remaining Giftworks data from 10 previous mailers.  
 3. Created and cleaned three Community Volunteers email lists.
 4. Contacted SF support regarding import issue: matching by external ID
 5. Prepped and imported online gifts (standard and tribute)
@@ -25,24 +25,26 @@
 8. Reviewed Finance process for manually issuing checks
 9. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
 10. Follow up with Classy support ticket regarding address fields from Supporters VS Attendees not available for the Donation Reports.  >> to next week
+11. Extracted remaining Giftworks notes and DonorDrive data regarding walk captains.  >> to next weekExported Giftworks archive data.   >> to next week
 
 
 
-11. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
-12. Streamlined picklist behavior for “XX” Donation field >> to next week
-13. Monthly report for development: Extra donor recognition >> to next week
+
+12. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
+13. Streamlined picklist behavior for “XX” Donation field >> to next week
+14. Monthly report for development: Extra donor recognition >> to next week
 
 
 */// Additional SF issues addressed: ///*
-14. Communicated with TEK for more information about field inconsistencies and how it was built
-15. Investigated new data issue with addresses of 2600 Client records missing City, State values
-16. Giving summary for Professional Advisory Board for CEO
-17. Cleanup and record creation for PAB members
-18. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-19. 
-20. Salesforce support questions regarding Salutations and Search Layouts
+15. Communicated with TEK for more information about field inconsistencies and how it was built
+16. Investigated new data issue with addresses of 2600 Client records missing City, State values
+17. Giving summary for Professional Advisory Board for CEO
+18. Cleanup and record creation for PAB members
+19. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
+20. 
+21. Salesforce support questions regarding Salutations and Search Layouts
 
-21. Started testing slight improvements to field inconsistencies. >> to next week
+22. Started testing slight improvements to field inconsistencies. >> to next week
 
 
 - - - -
@@ -50,6 +52,6 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTcwNTA0MywtMTc2MzUzNDU0NSwtMT
-EwNjM0NTc4LC0zNzc1MjU3NzhdfQ==
+eyJoaXN0b3J5IjpbLTE0ODgyMjAyNTksMTAxNTcwNTA0MywtMT
+c2MzUzNDU0NSwtMTEwNjM0NTc4LC0zNzc1MjU3NzhdfQ==
 -->
