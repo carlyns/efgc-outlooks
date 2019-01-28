@@ -21,24 +21,26 @@
 4. Contacted SF support regarding import issue: matching by external ID
 5. Prepped and imported online gifts (standard and tribute)
 6. Recorded Letter Queue Updating and Org Donation Entry video guides
-7. Notified DonorDrive donors 
+7. Notified DonorDrive donors about switch to Classy platform
+8. Reviewed Finance process for manually issuing checks
+9. 
 
 
-8. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
-9. Streamlined picklist behavior for “XX” Donation field >> to next week
-10. Monthly report for development: Extra donor recognition >> to next week
+10. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
+11. Streamlined picklist behavior for “XX” Donation field >> to next week
+12. Monthly report for development: Extra donor recognition >> to next week
 
 
 */// Additional SF issues addressed: ///*
-11. Communicated with TEK for more information about field inconsistencies and how it was built
-12. Investigated new data issue with addresses of 2600 Client records missing City, State values
-13. Giving summary for Professional Advisory Board for CEO
-14. Cleanup and record creation for PAB members
-15. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-16. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
-17. Salesforce support questions regarding Salutations and Search Layouts
+13. Communicated with TEK for more information about field inconsistencies and how it was built
+14. Investigated new data issue with addresses of 2600 Client records missing City, State values
+15. Giving summary for Professional Advisory Board for CEO
+16. Cleanup and record creation for PAB members
+17. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
+18. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
+19. Salesforce support questions regarding Salutations and Search Layouts
 
-18. Started testing slight improvements to field inconsistencies. >> to next week
+20. Started testing slight improvements to field inconsistencies. >> to next week
 
 
 - - - -
@@ -46,5 +48,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2MTU4Nzg5LC0zNzc1MjU3NzhdfQ==
+eyJoaXN0b3J5IjpbLTExMDYzNDU3OCwtMzc3NTI1Nzc4XX0=
 -->
