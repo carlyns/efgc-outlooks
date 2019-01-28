@@ -17,34 +17,27 @@
 1. Fine-tuned the 3-step plan to improvements to field inconsistencies: UI in UAT > UI in Production > moving data in Production
 2. Extracted the remaining Giftworks data from 10 previous mailers.  
 3. Created and cleaned three Community Volunteers email lists.
-5. Prepped and imported online gifts (standard and tribute)
-6. Recorded Letter Queue Updating and Org Donation Entry video guides
-7. Notified DonorDrive donors about switch to Classy platform
-8. Reviewed Finance process for manually issuing checks
-9. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
+4. Prepped and imported online gifts (standard and tribute)
+5. Recorded Letter Queue Updating and Org Donation Entry video guides
+6. Notified DonorDrive donors about switch to Classy platform
+7. Reviewed Finance process for manually issuing checks
+8. Follow up with Classy support ticket regarding Billing VS Custom address fields not showing in reports.  Submitted extra Classy ticket about columns in report UI.  
+9. Giving summary for Professional Advisory Board for CEO
 
-
-13. Gathered more feedback from case managers for Contact Info Field Consolidation >> to next week
-14. Streamlined picklist behavior for “XX” Donation field >> to next week
-15. Monthly report for development: Extra donor recognition >> to next week
 
 
 */// Additional SF issues addressed: ///*
-16. Communicated with TEK for more information about field inconsistencies and how it was built
-17. Investigated new data issue with addresses of 2600 Client records missing City, State values
-18. Giving summary for Professional Advisory Board for CEO
-19. Cleanup and record creation for PAB members
-20. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
-
-23. Started testing slight improvements to field inconsistencies. >> to next week
-
+10. Communicated with TEK for more information about field inconsistencies and how it was built
+11. Investigated new data issue with addresses of 2600 Client records missing City, State values
+12. Cleanup and record creation for PAB members
+13. Generated reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  
 
 - - - -
 ### Quarterly Goals
 *By midQ3:* Engagement Records, Mailer Process, Registration, Refined Gift Processing, Start Documentation
 *By endQ4:* Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzQ0MTQ0OSwyMTAzMTAzMDkwLDEwMT
-U3MDUwNDMsLTE3NjM1MzQ1NDUsLTExMDYzNDU3OCwtMzc3NTI1
-Nzc4XX0=
+eyJoaXN0b3J5IjpbMzg0MjM2MTAsMjEwMzEwMzA5MCwxMDE1Nz
+A1MDQzLC0xNzYzNTM0NTQ1LC0xMTA2MzQ1NzgsLTM3NzUyNTc3
+OF19
 -->
