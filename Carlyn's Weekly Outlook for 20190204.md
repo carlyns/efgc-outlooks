@@ -18,7 +18,7 @@
 5. Prepped and imported online gifts (standard and tribute)
 6. Which video guides? 
 7. Any Classy tickets? 
-8. Follow up with Classy support ticket regarding address fields from Supporters VS Attendees not available for the Donation Reports. 
+8. Followed up with Classy support ticket regarding address fields from Supporters VS Attendees not available for the Donation Reports. 
 9. Extracted remaining Giftworks notes and DonorDrive data regarding walk captains.
 10. Exported Giftworks archive data. 
 11. Gathered more feedback from case managers for Contact Info Field Consolidation
@@ -41,5 +41,5 @@
 *By midQ3:* Engagement Records, Mailer Process, Refined Gift Processing, Start Documentation
 *By endQ4:* Registration, Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTk0NTE0NF19
+eyJoaXN0b3J5IjpbODM1NjE0MDEsMTQ5MTk0NTE0NF19
 -->
