@@ -17,22 +17,22 @@
 ---#### Last Week’s Summary:
 1. Prepped and imported online gifts (standard and tribute)
 2. Gala support: name cards for attendees
-3. Recorded video guide for ?  
+3. Recorded video guide for ?
 4. Any Classy tickets?  >> to another week
-5. Streamlined picklist behavior for “XX” Donation field  >> to another week
+**5. Streamlined picklist behavior for “XX” Donation field**
 6. Prep for incoming Gala gifts
 7. Autofy sync testing
 
 */// Additional SF issues addressed: ///*
-15. campaigns status: hopefully import of about 5 past mailings/notes
+15. **setup campaigns in production**; hopefully import of about 5 past mailings/notes
 16. Any more TEK comms?  >> to another week
 17. A few email responses / “testing” of “fixed” donation record types and missing address data
-18. Official email response to TEK about hard-coding features does not align with “flexibility” agreement … How to address known and unknown hard-coded UI issues built by TEK.  Hard-coding as a solution, nor its impact on UI flexibility, was not made clear during build phase.  ???
-19. Field inconsistencies status?  >> to another week
-20. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
-21. Any more reports necessary for identifying data issues?  >> to another week
-22. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-23. Created report for EA, more complex than originally though, rolling up subtotals that excluded some appeal values
+18. Discovered more errors as TEK is trying to “fix” incomplete address fields; reminded of outstanding error.
+19. Official email response to TEK about hard-coding features does not align with “flexibility” agreement … How to address known and unknown hard-coded UI issues built by TEK.  Hard-coding as a solution, nor its impact on UI flexibility, was not made clear during build phase.  ???
+20. Field inconsistencies status?  >> to another week
+21. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
+22. Any more reports necessary for identifying data issues?  >> to another week
+23. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
 24. Contacted SF support regarding XX issues?   >> to another week
 
 ---### Quarterly Goals
