@@ -36,3 +36,6 @@
 ### Quarterly Goals
 *By midQ3:* Engagement Records, Mailer Process, Refined Gift Processing, Start Documentation
 *By endQ4:* Registration, Refined volunteer system, Reporting and Dashboards, Donor-Driven Info Updating
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MjEwOTA5MDRdfQ==
+-->
