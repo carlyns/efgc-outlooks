@@ -17,24 +17,25 @@
 ---#### Last Week’s Summary:
 1. Prepped and imported online gifts (standard and tribute)
 2. Gala support: Summary of registration; one-off donation receipts
-3.  
-4. Recorded video guide for ?
-5. Any Classy tickets?  >> to another week
+3. Creating change sets for Campaign setup, running deployment tests
+4. Exporting IDs to be used for mapping; account’s primary contacts are giving me trouble.
+5.  
+6. Recorded video guide for ?
+7. Any Classy tickets?  >> to another week
 **5. Streamlined picklist behavior for “XX” Donation field**
 5. Prep for incoming Gala gifts
 6. Autofy sync: Communicated with support about redundancies, purchased plan, research on workflows, testing
 
 */// Additional SF issues addressed: ///*
 15. **setup campaigns in production**; hopefully import of about 5 past mailings/notes
-16. Met with Shanthi about creating Salesforce video guides
-17. Any more TEK comms?  >> to another week
-18. Communicated with TEK about outstanding address comma/undefined error; Carlyn is handling city-state pairing corrections after unsuccessful TEK solution.
-19. Official email response to TEK about hard-coding features does not align with “flexibility” agreement … How to address known and unknown hard-coded UI issues built by TEK.  Hard-coding as a solution, nor its impact on UI flexibility, was not made clear during build phase.  ???
-20. Field inconsistencies status?  >> to another week
-21. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
-22. Any more reports necessary for identifying data issues?  >> to another week
-23. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-24. Contacted SF support regarding XX issues?   >> to another week
+16. Any more TEK comms?  >> to another week
+17. Communicated with TEK about outstanding address comma/undefined error; Carlyn is handling city-state pairing corrections after unsuccessful TEK solution.
+18. Official email response to TEK about hard-coding features does not align with “flexibility” agreement … How to address known and unknown hard-coded UI issues built by TEK.  Hard-coding as a solution, nor its impact on UI flexibility, was not made clear during build phase.  ???
+19. Field inconsistencies status?  >> to another week
+20. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
+21. Any more reports necessary for identifying data issues?  >> to another week
+22. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
+23. Contacted SF support regarding XX issues?   >> to another week
 
 ---### Quarterly Goals
 *By endQ4:* Refined Gift Processing, Registration, Refined volunteer system
