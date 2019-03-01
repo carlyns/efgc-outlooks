@@ -18,14 +18,14 @@
 6. Prepped and imported online gifts (standard and tribute)
 7. DonorDrive monthly report
 8. Training session for Finance on Viewing Donor History in Salesforce
-9. Gala support: Summary of registration; one-off donation receipts
+9. Gala support: Summary of registration; in-kind donation receipts
 10. Creating change sets for Campaign setup, running deployment tests
 11. Exporting IDs to be used for mapping; account’s primary contacts are giving me trouble.
 12.  
 13. Recorded video guide for ?
 14. Any Classy tickets?  >> to another week
 **5. Streamlined picklist behavior for “XX” Donation field**
-15. Prep for incoming Gala gifts
+15. Prep for incoming Gala gifts >> to anther week
 16. Autofy sync: Communicated with support about redundancies, purchased plan, research on workflows, testing
 
 */// Additional SF issues addressed: ///*
@@ -43,5 +43,5 @@
 *By endQ4:* Refined Gift Processing, Registration, Refined volunteer system
 *By midQ1:* Start Written Documentation, Reporting and Dashboards, Donor-Driven Info Updating, Object Structure, Plan for Profile Settings
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDcxODY4MCwtNDkyMjk4MDNdfQ==
+eyJoaXN0b3J5IjpbMTIxODk1NDA1LC00OTIyOTgwM119
 -->
