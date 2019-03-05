@@ -32,8 +32,8 @@
 17. **setup campaigns in production**; hopefully import of about 5 past mailings/notes
 18. Any more TEK comms?  >> to another week
 19. Met with TEK about status of Client data.  Pushed for TEK to do sandbox refresh for realistic data to facilitate more effective testing.  
-20. Reviewed changeset process with Shanthi. 
-21. 
+20. Reviewed changeset process with Shanthi.
+21.
 22. Explained outstanding address comma/undefined error to TEK again
 23. Discovered more empty addresses with only a country - need to compare to Penelope to determine if these addresses originally had values or truly are empty.  
 24. Corrected city-state pairing data issues.  
@@ -45,5 +45,5 @@
 
 - - - -
 ### Quarterly Goals
-*By endQ4:* Refined Gift Processing, Registration, Refined volunteer system
+*By endQ4:* Refined Gift Processing, Brainstorm Registration Improvements, Refined volunteer system
 *By midQ1:* Start Written Documentation, Reporting and Dashboards, Donor-Driven Info Updating, Object Structure, Plan for Profile Settings
