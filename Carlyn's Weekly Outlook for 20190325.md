@@ -11,7 +11,6 @@
 2. Start iPad investigations with Case Management team.  
 3. Continue to test streamlining of field inconsistencies in UAT.  
 
-
 - - - -
 #### Last Two Weeks’ Summary:
 1. Prepped and imported two batches of online gifts (standard and tribute)
@@ -23,17 +22,15 @@
 7. Gala support: gala gifts thank you letters
 8. Drafted Volunteer structure in Salesforce including new fields, page layouts, compact layouts, and streamlined interface.  
 9. Troubleshooted Classy issue: removing attendees from list without deleting their account
-10. Planning for initial iPad investigations with Case Management team.
 
 */// Additional SF issues addressed: ///*
-10. Discussed and created plan for iPad issues with exec management.  Get a foundational understanding of case management tasks.  
-11. Communicating with TEK about Completion Week: outstanding issues never addressed like matching gifts error again (after 3 tries), cleanup of comma-undefined addresses, handoff documents, refresh logistics; meetings to review status of outstanding data issues
-12. For “Is a Client” checkbox, process builder was moved to a trigger, which is hard-coded.  Back and forth communication - existing records affected are being cleaned up; trying to make it visible on Contact record.
-13. Discovered undefined defaults on address fields for new client records were still not corrected; commented to TEK again.  
-14. Confirmed that ~2700 empty addresses with only a country did not have an address in Penelope.  Cleaned up.  
-15. 
-
-
+10. Discussed and created plan for iPad issues with management.  Get a foundational understanding of case management tasks.  
+11. Planning for initial iPad investigations with Case Management team.
+12. Communicating with TEK about Completion Week: outstanding issues never addressed like matching gifts error again (after 3 tries), cleanup of comma-undefined addresses, handoff documents, refresh logistics; meetings to review status of outstanding data issues
+13. For “Is a Client” checkbox, process builder was moved to a trigger, which is hard-coded.  Back and forth communication - existing records affected are being cleaned up; asking for visibility on Contact record.
+14. Discovered undefined defaults on address fields for new client records were still not corrected; commented to TEK again.  
+15. Confirmed that ~2700 empty addresses with only a country did not have an address in Penelope.  Cleaned up.  
+16. Adjusted letter queue template to reflect streamlined tribute values. 
 
 - - - -
 ### Quarterly Goals
