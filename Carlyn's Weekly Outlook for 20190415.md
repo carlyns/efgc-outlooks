@@ -1,4 +1,4 @@
-## Carlyn's Weekly Outlook for 20190408
+## Carlyn's Weekly Outlook for 20190415
 ### Routine Tasks
 * Gift Entry
 * Weekly report for finance: Classy gifts
@@ -12,6 +12,11 @@
 2. Continue to test streamlining of field inconsistencies in UAT.
 3. Continue iPad investigations with Case Management team. 
 4. Continue Client Services data cleanup projects.
+5. Noticing strange import behavior: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws an error, sometimes “Update” too.  c) Name matching includes middle name but not alternate names.  (>> Understand consequences and limitations of matching by email. )
+6. > > Reminder.  Examples of usability/inflexibility built by TEK that we only see glimpses of now, but have potential to completely block operations in the future … but not listing here because they are not issues that I can personally assess or tackle; I can only document them and possibly add it below to the addl issues addressed/discovered
+7. Design from scratch (I suppose part of job description) custom Profiles for searching, object access, field permissions, etc to bolster better UI.  But right now considered a block because it wasn’t done at all and is affecting Data Quality bc CMs can’t view context/dups along with no training and no data context. >> to another week
+8. Monitoring all the Client data cleanup/merging that’s going on … somehow.  Merging is creating weird behavior too: leftover anonymous empty accounts, leftover addresses.  Essentially, cleanup is posing it’s own weird issues.
+9. Another stab at the crazy Duplicate rules …
 
 - - - -
 #### Last Week’s Summary:
