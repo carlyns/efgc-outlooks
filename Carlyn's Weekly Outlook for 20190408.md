@@ -15,10 +15,7 @@
 - - - -
 #### Last Week’s Summary:
 2. Prepped and imported online gifts.
-3. Any Classy tickets?  >> to another week
-5. another Viewing Donor History in Salesforce for Finance??
-6. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-7. Identified source of discrepency between Classy and WePay reports.  Decision made to try monthly instead.
+7. Investigated and pinpointed discrepancy between Classy and WePay transactions.  Decision made to try monthly reports instead.
 8. Created list of remaining donors on DonorDrive to connect with. 
 9. DonorDrive archives. 
 
@@ -39,5 +36,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjQ1OTUyNSw0Nzc0MjY4ODddfQ==
+eyJoaXN0b3J5IjpbLTY5MDY5Njc4NCw0Nzc0MjY4ODddfQ==
 -->
