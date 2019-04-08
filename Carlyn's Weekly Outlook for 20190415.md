@@ -10,7 +10,7 @@
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue setting up Campaigns and preparing past mailings & notes for import.
 2. Continue to test streamlining of field inconsistencies in UAT.
-3. Continue iPad investigations with Case Management team. 
+3. Continue investigations with Case Management team regarding iPad issues and connected desktop issues. 
 4. Continue Client Services data cleanup projects.
 5. Noticing strange import behavior: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws an error, sometimes “Update” too.  c) Name matching includes middle name but not alternate names.  (>> Understand consequences and limitations of matching by email. )
 6. > > Reminder.  Examples of usability/inflexibility built by TEK that we only see glimpses of now, but have potential to completely block operations in the future … but not listing here because they are not issues that I can personally assess or tackle; I can only document them and possibly add it below to the addl issues addressed/discovered
@@ -32,8 +32,8 @@
 9. DonorDrive archives. 
 
 */// Additional SF issues addressed: ///*
-11. Foundational sessions to kickoff iPad investigations with Case Management team.
-12. Observational desk sessions for initial glimpse into iPad issues and connected desktop issues. 
+11. Compiled notes from foundational sessions with Case Management team.
+12. Continued to research iPad issues and connected desktop issues; conducted follow-up sessions/quest. 
 13. Discussed data cleanup issue of case ownership with team. 
 14. Continued to complete online SF lessons about mobile setup and structure.
 15. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
@@ -48,5 +48,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzU0OTkwNF19
+eyJoaXN0b3J5IjpbNjAwNDYxOTE3XX0=
 -->
