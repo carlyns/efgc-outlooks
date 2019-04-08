@@ -25,7 +25,7 @@
 13. Discussed data cleanup issue of case ownership with team. 
 14. Continued to complete online SF lessons about mobile setup and structure.
 15. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
-16. Asked TEK for original Client Services data import files
+16. Requested original Client Services data import files from 
 
 - - - -
 ### Quarterly Goals
@@ -33,5 +33,6 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njg5NTI3MCw0Nzc0MjY4ODddfQ==
+eyJoaXN0b3J5IjpbLTE4NzIzMzEwNzUsLTk1Njg5NTI3MCw0Nz
+c0MjY4ODddfQ==
 -->
