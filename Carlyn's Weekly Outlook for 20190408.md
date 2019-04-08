@@ -9,7 +9,7 @@
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue setting up Campaigns and preparing past mailings & notes for import.
-3. Continue iPad investigations with Case Management team. 
+3. Continue investigations with Case Management team regarding iPad issues and connected desktop issues. 
 4. Assess Client Services data cleanup projects.
 
 - - - -
@@ -33,5 +33,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzU2MDA1LDQ3NzQyNjg4N119
+eyJoaXN0b3J5IjpbLTk1Njg5NTI3MCw0Nzc0MjY4ODddfQ==
 -->
