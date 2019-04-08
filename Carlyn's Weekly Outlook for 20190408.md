@@ -17,7 +17,7 @@
 2. Prepped and imported online gifts.
 7. Investigated and pinpointed discrepancy between Classy and WePay transactions.  Decision made to try monthly reports instead.
 8. Created list of remaining donors on DonorDrive to connect with. 
-9. DonorDrive archives. 
+9. Exported DonorDrive archives. 
 
 */// Additional SF issues addressed: ///*
 11. Foundational sessions to kickoff iPad investigations with Case Management team.
@@ -36,5 +36,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDY5Njc4NCw0Nzc0MjY4ODddfQ==
+eyJoaXN0b3J5IjpbMTA5NjA0OTIzNyw0Nzc0MjY4ODddfQ==
 -->
