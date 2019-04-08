@@ -42,3 +42,6 @@
 *By endQ4:* Initial round of solutions for iPads, Basic Client Services issues identified, Refined Gift Processing, Refined volunteer system
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDc3NDI2ODg3XX0=
+-->
