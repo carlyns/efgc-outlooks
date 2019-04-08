@@ -9,17 +9,13 @@
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue setting up Campaigns and preparing past mailings & notes for import.
-2. Continue to test streamlining of field inconsistencies in UAT.
 3. Continue iPad investigations with Case Management team. 
-4. Continue Client Services data cleanup projects.
+4. Assess Client Services data cleanup projects.
 
 - - - -
 #### Last Week’s Summary:
-1. Volunteer setup status? >> to another week
-2. Prepped and imported online gifts >> to another week
+2. Prepped and imported online gifts.
 3. Any Classy tickets?  >> to another week
-**5. Streamlined picklist behavior for “XX” Donation field**
-4. Autofy sync status?
 5. another Viewing Donor History in Salesforce for Finance??
 6. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
 7. Identified source of discrepency between Classy and WePay reports.  Decision made to try monthly instead.
@@ -43,5 +39,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NDI2ODg3XX0=
+eyJoaXN0b3J5IjpbLTk2NjQ1OTUyNSw0Nzc0MjY4ODddfQ==
 -->
