@@ -16,7 +16,7 @@
 #### Last Week’s Summary:
 2. Prepped and imported online gifts.
 3. Discussed discrepancy between Classy and WePay transactions.  Decision made to try monthly reports instead.
-4. Created list of remaining donors on DonorDrive to connect with. 
+4. Created list of remaining donors on DonorDrive to inform about transition to Classy. 
 5. Exported DonorDrive data for Walk years 2014-2018. 
 
 */// Additional SF issues addressed: ///*
@@ -34,6 +34,6 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDA5NzQ2MCw3NDAxMTg3NzAsLTk1Nj
+eyJoaXN0b3J5IjpbLTI4OTk0NDYxOSw3NDAxMTg3NzAsLTk1Nj
 g5NTI3MCw0Nzc0MjY4ODddfQ==
 -->
