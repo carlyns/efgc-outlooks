@@ -25,7 +25,7 @@
 8. Research and assessment of iPad issues and connected desktop issues. 
 9. Continued to complete online SF lessons about mobile setup and structure.
 10. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
-11. Discussed case ownership data issue with team. 
+11. Discussed case ownership data issue with team.  Not worth manual cleanup for 5,000 records to provide historical info. Offered to diagnose by having quick glance at original import data.  
 12. Requested original Client Services data import files from TEK.
 
 - - - -
@@ -34,6 +34,6 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM2ODI2Myw3NDAxMTg3NzAsLTk1Nj
+eyJoaXN0b3J5IjpbLTc3MDA5NzQ2MCw3NDAxMTg3NzAsLTk1Nj
 g5NTI3MCw0Nzc0MjY4ODddfQ==
 -->
