@@ -26,9 +26,6 @@
 14. Continued to complete online SF lessons about mobile setup and structure.
 15. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
 16. Asked TEK for original Client Services data import files
-17. Field inconsistencies status?  >> to another week
-18. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
-19. Contacted SF support regarding XX issues?   >> to another week
 
 - - - -
 ### Quarterly Goals
@@ -36,5 +33,5 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mzc2NDg4MSw0Nzc0MjY4ODddfQ==
+eyJoaXN0b3J5IjpbLTYyNTg3ODg2Nyw0Nzc0MjY4ODddfQ==
 -->
