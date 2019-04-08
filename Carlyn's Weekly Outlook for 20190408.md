@@ -15,17 +15,17 @@
 - - - -
 #### Last Week’s Summary:
 2. Prepped and imported online gifts.
-7. Investigated and pinpointed discrepancy between Classy and WePay transactions.  Decision made to try monthly reports instead.
+7. Discussed discrepancy between Classy and WePay transactions.  Decision made to try monthly reports instead.
 8. Created list of remaining donors on DonorDrive to connect with. 
 9. Exported DonorDrive data for Walk years 2014-2018. 
 
 */// Additional SF issues addressed: ///*
 11. Compiled notes from foundational sessions with Case Management team.
 12. Compiled observations and researched issues from observational desk sessions for initial glimpse into iPad issues and connected desktop issues. 
-13. Discussed data cleanup issue of case ownership with team. 
 14. Continued to complete online SF lessons about mobile setup and structure.
 15. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
-16. Requested original Client Services data import files from 
+13. Discussed data cleanup issue of case ownership with team. 
+16. Requested original Client Services data import files from TEK.
 
 - - - -
 ### Quarterly Goals
@@ -33,6 +33,6 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIzMzEwNzUsLTk1Njg5NTI3MCw0Nz
-c0MjY4ODddfQ==
+eyJoaXN0b3J5IjpbNzQwMTE4NzcwLC05NTY4OTUyNzAsNDc3ND
+I2ODg3XX0=
 -->
