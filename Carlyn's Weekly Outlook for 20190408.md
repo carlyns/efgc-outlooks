@@ -21,8 +21,8 @@
 
 */// Additional SF issues addressed: ///*
 6. Compiled notes from foundational sessions with Case Management team.
-7. Compiled desk session observations and followed-up with clarifications/questions for CM team.
-8. Researched iPad issues and connected desktop issues. 
+7. Compiled desk session observations and followed-up with clarifications/questions for Case Management team. 
+8. Research and assessment of iPad issues and connected desktop issues. 
 9. Continued to complete online SF lessons about mobile setup and structure.
 10. Setup 12 more past mailings/notes for Campaigns structure.  Imported 6.
 11. Discussed data cleanup issue of case ownership with team. 
@@ -34,6 +34,6 @@
 *By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Brainstorm Registration Improvements
 *By endQ1:*Donor-Driven Info Updating, Object Structure, Reporting and Dashboards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTc3NDE4Miw3NDAxMTg3NzAsLTk1Nj
+eyJoaXN0b3J5IjpbMjA1NDI2NDI2Miw3NDAxMTg3NzAsLTk1Nj
 g5NTI3MCw0Nzc0MjY4ODddfQ==
 -->
