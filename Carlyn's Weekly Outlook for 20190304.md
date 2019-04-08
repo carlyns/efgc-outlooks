@@ -32,3 +32,6 @@
 ### Quarterly Goals
 *By endQ4:* Refined Gift Processing, Brainstorm Registration Improvements, Refined volunteer system
 *By midQ1:* Start Written Documentation, Reporting and Dashboards, Donor-Driven Info Updating, Object Structure, Plan for Profile Settings
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE5NzEyMzQyNV19
+-->
