@@ -1,57 +1,33 @@
 ## Carlyn's Weekly Outlook for 20190429
 ### Routine Tasks
 * Gift Entry
-* Monthly report for finance: Classy gifts >> move to first week of May
+* Monthly report for finance: Classy gifts & last DonorDrive gifts
 * Letter Generation and Record Updates
 * Continue basic SF documentation - videos
 * Weekly Data Cleanup
 * Verify checks for finance
-* something else?
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
-1. Continue investigations with Case Management team regarding iPad issues and connected desktop issues.
-2. Monitor Client Services data cleanup projects.
-3. Continue scoping and understanding Client Services issues related to other required reports (1009, etc). ??? 
-4. Continue to test streamlining of field inconsistencies in UAT.  >> evolved and merge with all Client Services improvements.
-5. Test Client Services improvements/new features in UAT.  >> another week
-6. 
-7. Noticing strange import behavior: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws an error, sometimes “Update” too.  c) Name matching includes middle name but not alternate names.  (>> Understand consequences and limitations of matching by email. )
-8. > > Reminder.  Examples of usability/inflexibility built by TEK that we only see glimpses of now, but have potential to completely block operations in the future … but not listing here because they are not issues that I can personally assess or tackle; I can only document them and possibly add it below to the addl issues addressed/discovered
-9. Design from scratch (I suppose part of job description) custom Profiles for searching, object access, field permissions, etc to bolster better UI.  But right now considered a block because it wasn’t done at all and is affecting Data Quality bc CMs can’t view context/dups along with no training and no data context. >> to another week
-10. Merging is creating weird behavior too (esp monitor for Client side): leftover anonymous empty accounts, leftover addresses.  Essentially, cleanup is posing it’s own weird issues.
-11. Another stab at the crazy Duplicate rules …
+1. Continue Client Services improvements through UI.  Continue deeper object/flow research & design for structural issues.  Establish prevention (temp if needed), consolidate sources if data is missing, perform cleanup for each.  
+2. Understand requirements for other reports (1009, etc) to include in current batch of improvements.  
+3. Investigate the strange behavior caused when merging Contact records: leftover anonymous empty accounts, leftover addresses.  
 
 - - - -
 #### Last Week’s Summary:
-1. Volunteer setup status? >> to another week
-2. SF support: Address behavior
-3. Prepped and imported online gifts >> to another week
-4. Any Classy tickets?  >> to another week
-**5. Streamlined picklist behavior for “XX” Donation field**
-5. Autofy sync status?
-6. another Viewing Donor History in Salesforce for Finance??
-7. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-8. Discovered Classy reports don’t provide breakdown for tracking multiple registrations under single transaction for walk.
-9. Donations-based with development report appeal values switched to donor-based total giving report.  Did not have time to complete.  
+1. Request for donations-based development report with appeal values switched to donor-based total giving report.  Did not have time to complete. 
+2. Completed reconciliations for February and March. 
+3. Discussion about matching gifts vendor Amply: pros, cons, prep required. 
 
 */// Additional SF issues addressed: ///*
-11. DHS report status
-12. Created “training” sheet for reporting units on CM Activities?  in response to DFI report.
-13. 
-14. Continued to research and compile Report of Client Services Salesforce Issues, Findings, and Recommendations in order to plan out May-June workload.
-15. Status of data cleanup issue of case ownership with team after four 1 hour sessions all stuck in the conference room.
-16. Independent review of priority and process for separately-planned Cleanup projects:  Case Owner, Case Status, Households, and Single Case per Client.  
-
-17. Setup and imported the rest of the past mailings/notes for Campaigns structure.    >> to another week
-18. Field inconsistencies status?  >> to another week
-19. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
-20. Contacted SF support regarding XX issues?   >> to another week
-21. Called SF support about report type showing empty Activities on a CR - SF - Act report type, when filter was used to hide Empty Activities.  
-22. Called SF support about address issues?
-
+4. Continued to research and compile Report of Client Services Salesforce Issues, Findings, and Recommendations.  Presented to management and facilitated prioritization session for May-June workload.  
+5. Began basic UI improvements on Client Services objects: Contact, CaseRecord, ServFile; default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records. 
+6. Called SF support: Help with Address behavior when deleting old/incorrect address records
+7. Called SF support: Help with report type showing empty Activities when filter was used to hide them. 
+8. Created helper tool for separately-planned Cleanup projects: Report to more efficiently identify correct client using Case Notes and Case Records.  
+9. Setup and imported the rest of the past mailings/notes for Campaigns structure.    
 
 - - - -
 ### Quarterly Goals
-*By endQ4:* Initial round of solutions for iPads, Basic Client Services issues identified including reporting gaps, Refined volunteer system
-*By midQ1:* Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Refined Gift Processing,
+*By endQ4:* Basic Client Services issues identified including reporting gaps and initial round of corresponding solutions, Refined volunteer system
+*By midQ1:* Next batch of Client Services issues prioritized, Start Written Documentation, Plan for Profile Settings, Refined Gift Processing,
 *By endQ1:* Donor-Driven Info Updating, Object Structure, Brainstorm Registration Improvements, Reporting and Dashboards
