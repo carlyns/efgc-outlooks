@@ -13,19 +13,19 @@
 
 - - - -
 #### Last Week’s Summary:
-1. Prepped and imported online gifts; separate process for Walk registrations.  
+1. Prepped and imported online gifts; separate process for Walk registrations.
 2. Designed and tested a new workflow to accommodate manual matching gifts process and workplace giving gifts, given predicted influx once Amply is turned on.
 3. Extra recognition report for development.
 
 */// Additional SF issues addressed: ///*
-11. Continued basic UI improvements on Client Services objects: Activity; default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.
-12. ReferralForm, Contact, IntakeForm, CaseRecord required major inventory assessment… creating holding sections to better understand all fields.  had to recreate all of the fields (some never created from the paper forms by TEK) and test different locations they could appear across the four objects.  Ultimately decided to bypass the ReferralForm, have most everything live on the CaseRecord, and treat the IntakeForm as an intermediate/temporary step.
-13. Communicated with SF support: UI tabbing behavior is not supported in Lightning despite settings available to control it
-14. Communicated SF support: creating variables that can be used to feed data from one object to another (e.g. birthdate from IntakeForm to CaseRecord).  Learned about ProcessBuilder and FlowBuilder steps needed.
-15. Researched FormTitan build process.  Watched tutorials and reference materials.  Created test form to try “get” actions (pulling data in from CaseRecord and IntakeForm).  Found and studied TEK’s versions of forms and lightning components using apex code.  Successfully created test button for new form but still unable to “get” values.  Contacted FormTitan support.
-16. Learned more about required reporting fields from ROCS entry process and unclear definition of DFI/DHS-funded cases.
-17. Listened to TH’s requests about verifying age of onset and poverty level (this is nothing that SF can perform).
-18. 
+4. Continued basic UI improvements on Client Services objects: Activity; default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.
+5. Major inventory assessment of ReferralForm, Contact, IntakeForm, CaseRecord.  Tested and created holding sections to better understand all fields in sandbox.  Identified fields on paper forms missing from intake screens.  Ultimately decided to bypass the ReferralForm, design screens such that all client information lives on CaseRecord as central hub, and treat the IntakeForm as a snapshot of information at the time of initial intake.
+6. Got feedback from Valentina about drafted intake steps and new structural concept for CaseRecord as a central hub for information.
+7. Communicated with SF support: UI tabbing behavior is not supported in Lightning despite settings available to control it
+8. Communicated SF support: creating variables that can be used to feed data from one object to another (e.g. birthdate from IntakeForm to CaseRecord).  Learned about ProcessBuilder and FlowBuilder steps needed.
+9. Researched FormTitan build process.  Watched tutorials and reference materials.  Created test form to try “get” actions (pulling data in from CaseRecord and IntakeForm).  Found and studied TEK’s versions of forms and lightning components using apex code.  Successfully created test button for new form but still unable to “get” values.  Contacted FormTitan support.
+10. Learned more about required reporting fields from ROCS entry process and unclear definition of DFI/DHS-funded cases.
+11. Monitored status of Salesforce global outage on May 17.
 
 - - - -
 ### Quarterly Goals

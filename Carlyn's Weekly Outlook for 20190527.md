@@ -23,7 +23,7 @@
 - - - -
 #### Last Week’s Summary:
 1. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
-2. Completed on Golf Outing report, which needed a combination of donation-based and donor-based information.
+2. Completed Golf Outing mailing list.
 3. Designed and tested a new workflow to accommodate manual matching gifts process and workplace giving gifts, given predicted influx once Amply is turned on.
 4. Extra recognition report for development.
 5. 
@@ -32,13 +32,13 @@
 7. Autofy sync status?
 8. another Viewing Donor History in Salesforce for Finance??
 9. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-10. Development report (combination of donations and donor information) completed for Golf Outing.  
+10. Development report (combination of donations and donor information) completed for Golf Outing.
 
 */// Additional SF issues addressed: ///*
 11. Custom profiles for Nate!
-12. Continued basic UI improvements on Client Services objects: Activity, ?, ?; default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.
-13. ReferralForm, Contact, IntakeForm, CaseRecord required major inventory assessment… creating holding sections to better understand all fields.  had to recreate all of the fields (some never created from the paper forms by TEK) and test different locations they could appear across the four objects.  Ultimately decided to bypass the ReferralForm, have most everything live on the CaseRecord, and treat the IntakeForm as an intermediate/temporary step.
-14. Communicated with SF support: ?? Activity VS CM Activity fields spread across these two objects. 
+12. Continued basic UI improvements on Client Services objects: Activity, CaseRecord, ContactRecord.  Default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.
+13. Started preparing CaseRecord to hold improvements to IntakeForm fields and auto-population.  … 
+14. Communicated with SF support: ?? Activity VS CM Activity fields spread across these two objects.  
 15. Continued to research FormTitan build process.  Watched tutorials and reference materials.  Created test form to try “get” actions (pulling data in from CaseRecord and IntakeForm).  Found and studied TEK’s versions of forms and lightning components using apex code.  Successfully created test button for new form but still unable to “get” values. Scheduled screenshare with FormTitan support.
 
 13. DHS application  status?
