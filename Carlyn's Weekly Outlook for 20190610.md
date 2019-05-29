@@ -1,4 +1,4 @@
-## Carlyn's Weekly Outlook for 20190527
+## Carlyn's Weekly Outlook for 20190610
 ### Routine Tasks
 * Gift Entry
 * Monthly report for finance: Classy gifts >> move to first week of June
@@ -23,8 +23,8 @@
 - - - -
 #### Last Week’s Summary:
 1. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
-2. Completed Golf Outing mailing list.
-3. Designed and tested a new workflow to accommodate manual matching gifts process and workplace giving gifts, given predicted influx once Amply is turned on.
+2. Continued testing new workflow to accommodate manual matching gifts process and workplace giving gifts, given predicted influx once Amply is turned on.  Native functionality of soft-crediting donors is not triggered by this import process - need to rework.  
+3. Recorded Walk & Golf mailings to Campaign History in Salesforce.
 4. Extra recognition report for development.
 5. 
 6. Any Classy tickets?  >> to another week
@@ -32,20 +32,23 @@
 7. Autofy sync status?
 8. another Viewing Donor History in Salesforce for Finance??
 9. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-10. Development report (combination of donations and donor information) completed for Golf Outing.
+10. Discussed Golf income discrepancy between Special Events and Finance. 
+11. 
 
 */// Additional SF issues addressed: ///*
-11. Custom profiles for Nate!
-12. Continued basic UI improvements on Client Services objects: Activity, CaseRecord, ContactRecord.  Default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.
-13. Started preparing CaseRecord to hold improvements to IntakeForm fields and auto-population.  … 
-14. Communicated with SF support: ?? Activity VS CM Activity fields spread across these two objects.  
-15. Continued to research FormTitan build process.  Watched tutorials and reference materials.  Created test form to try “get” actions (pulling data in from CaseRecord and IntakeForm).  Found and studied TEK’s versions of forms and lightning components using apex code.  Successfully created test button for new form but still unable to “get” values. Scheduled screenshare with FormTitan support.
+14. Continued basic UI improvements on Client Services objects: Activity, CaseRecord, ContactRecord.  Default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, importing updates to records, clarifying tasks with case managers and other staff.  Minor changes to Event Site/Location and In/Direct Time.  
+15. Gained understanding of structural difference between CM Activities and Events, which are both subtypes of Activities.  Discovered differences between labels for default, custom, and reporting fields (e.g. Full Comments for Activity Description) and the 
+16. Created new fields on CaseRecord and IntakeFrom based off of sandbox draft. 
+17. Prepared CaseRecord to current and future improvements to IntakeForm fields and auto-population.  Adjusted fields and sections to allow for daily used by team. 
+18. Created variables, mapping values from IntakeForm and to CaseRecord using Flows and ProcessBuilder. Tested connections between the two objects.  Minimized amount of selectable values while maintaining reporting requirements.  Scoped and prepared data in existing fields and moved moved to new objects via imports.  
+19. Discussion about internal QB Accounts and Campaigns categorization. 
+20. Explored settings for profiles and page layouts specific to client information.  
+21. Conducted initial observational session to understand Education department tasks and Salesforce needs. 
 
-13. DHS application  status?
-14. 
-
-19. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
-20. Contacted SF support regarding XX issues?   >> to another week
+21. Communicated with SF support: ?? 
+22. DHS application  status?
+23. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
+24. Contacted SF support regarding XX issues?   >> to another week
 
 - - - -
 ### Quarterly Goals
