@@ -2,9 +2,10 @@
 ### Routine Tasks
 * Gift Entry
 * Letter Generation and Record Updates
+* Verify checks for finance
+* Standard Salesforce Administration - adjusting settings, prioritizing requests, monitoring data entry, answering questions about record history, troubleshooting errors, assisting with reports, educating staff on interface
 * Continue basic SF documentation - videos
 * Weekly Data Cleanup
-* Verify checks for finance
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue Client Services improvements through UI.  Continue research & preparation for structural redesigns.  Establish prevention (temp if needed), consolidate sources if data is missing, perform cleanup for each.

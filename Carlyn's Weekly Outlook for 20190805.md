@@ -6,6 +6,7 @@
 * Continue basic SF documentation - videos
 * Weekly Data Cleanup
 * Verify checks for finance
+* Standard Salesforce Administration - adjusting settings, prioritizing requests, monitoring data entry, answering questions about record history, troubleshooting errors, assisting with reports, educating staff on interface
 * something else?
 * Monthly reconciliation with finance  >> move to second week of July
 
@@ -21,9 +22,8 @@
 9. Investigate the strange behavior caused when merging Contact records: leftover anonymous empty accounts, leftover addresses.
 10. Another stab at the crazy Duplicate rules …
 
-- - - -
-#### Last Week’s Summary:
-1. Analyzed how mock DFI/DHS reports are affected by new Activity names using yearly and quarterly data.  
+---#### Last Week’s Summary:
+1. Analyzed how mock DFI/DHS reports are affected by new Activity names using yearly and quarterly data.
 2. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
 3. Refined import steps to use ClassyID fields for matching contacts.  >> to another week
 4. 
@@ -43,28 +43,26 @@ Any Classy tickets?  >> to another week
 */// Additional SF issues addressed: ///*
 16. Continued basic UI improvements on Client Services objects: XXX Object.  Reviewing default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, clarifying tasks with case managers and other staff.  >> to another week
 17. 
-18. Rolled out Activity names.  
+18. Rolled out Activity names.
 19. 
 20. Caught Debbie up with new Case Record hub structure.
 21. 
 22. 
-23. Monitored progress of operational steps taken to help facilitate/prepare for the redesign of Client Status.   Prepared questions and sample cases.  
-24. Monitored for issues after rollout of new Forms.   XX form may need a different setup.  Answered basic questions/clarifications from case management team as they arose. 
-25. Made adjustments to form layout and fields in FormTitan, including connections to/from Salesforce objects, and connections to printable version of forms.  
+23. Monitored progress of operational steps taken to help facilitate/prepare for the redesign of Client Status.   Prepared questions and sample cases.
+24. Monitored for issues after rollout of new Forms.   XX form may need a different setup.  Answered basic questions/clarifications from case management team as they arose.
+25. Made adjustments to form layout and fields in FormTitan, including connections to/from Salesforce objects, and connections to printable version of forms.
 26. Continued transferring recent data (Jul 8-Jul 18) from old to new structure.  >> to another week
 27. Refined paper version forms w Valentina. >> to another week.
 28. 
-29. Rolled out iPads!  
-30. Monitored for initial issues after rollout of iPads.  
-
+29. Rolled out iPads!
+30. Monitored for initial issues after rollout of iPads.
 
 22. Observed a client intake conducted by case manager. >> to another week
 
 22. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
 23. Possibly research parent-child Account structure and Record Types for Biz Dev >> to another week
 
-- - - -
-### Quarterly Goals
+---### Quarterly Goals
 *By midQ1 (aug15):* 2nd round of Client Services issues prioritized, Start written documentation, Refined gift processing, Yearly financial audit support
 *By endQ1 (sep30):* Reassess object structure incl Business Development, Brainstorm registration improvements, Historical Client Services data plan created, Profile settings plan created, Reporting & dashboards.
 *By midQ2 (nov15):* 2nd round of Client Services solutions done, Historical Client Services data plan underway, Donor-driven info updating, Continue written documentation, Certification exam.
