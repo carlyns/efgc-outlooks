@@ -1,4 +1,4 @@
-## Carlyn's Weekly Outlook for 20190728
+## Carlyn's Weekly Outlook for 20190805
 ### Routine Tasks
 * Gift Entry
 * Monthly report for finance: Classy gifts >> move to first week of Aug
@@ -7,7 +7,7 @@
 * Weekly Data Cleanup
 * Verify checks for finance
 * something else?
-* Monthly reconciliation for finance  >> move to second week of July
+* Monthly reconciliation with finance  >> move to second week of July
 
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue Client Services improvements through UI.  Continue research & preparation for structural redesigns.  Establish prevention (temp if needed), consolidate sources if data is missing, perform cleanup for each.
@@ -23,33 +23,40 @@
 
 - - - -
 #### Last Week’s Summary:
-1. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
-2. Refined import steps to use ClassyID fields for matching contacts.  >> to another week
-3. Finished DFI Q4 and end-of-year reports.  Wrote explanation for DFI Quarterly update and finalized documentation.  
-4. Compiled DHS report.  Compared numbers pulled from Salesforce against manually tracked numbers from Clinic and Intakes.  Reviewed other outstanding items.  
+1. Analyzed how mock DFI/DHS reports are affected by new Activity names using yearly and quarterly data.  
+2. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
+3. Refined import steps to use ClassyID fields for matching contacts.  >> to another week
+4. 
 5. Reviewed whether matching gifts coming through Amply requires extra reporting process.  Will definitely require manual linking of gifts that may be hard to track down.  >> to another week
-6. Setup corporate doatnions report >> to another week
+6. Setup corporate donations report >> to another week
 7. Created Workplace FY19 first report for Fundraisers to analyze >> to another week
-
 
 7. Continued discussing and testing options to handle matching gifts process, workplace giving gifts, and late-designated workplace/matching gifts with late designation requests. >> to another week
 8. Discussed Golf income discrepancy between Special Events and Finance.  >> to another week
 Any Classy tickets?  >> to another week
 **5. Streamlined picklist behavior for “XX” Donation field**
-11. Autofy sync status?
-12. another Viewing Donor History in Salesforce for Finance??
-13. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
-14. 
+9. Autofy sync status?
+10. another Viewing Donor History in Salesforce for Finance??
+11. Analyzed reports for Giving Data in Giftworks and Salesforce to test data integrity between systems.  >> to another week
+12. 
 
 */// Additional SF issues addressed: ///*
 16. Continued basic UI improvements on Client Services objects: XXX Object.  Reviewing default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, clarifying tasks with case managers and other staff.  >> to another week
-17. Monitored for initial issues after rollout of new Forms.   Reworked auth form, separated from Rights.  Recreated paper versions.  
-18. 
-19. Refined paper version forms w Valentina. >> to another week.
-20. 
-21. Continued to transfer existing data from old to new structure, which included analyzing past responses and deciding how to format and rework the data.  After new Forms rollout, started same process for recent data (Jul 8-Jul 18)
-22. Completed transferring recent data (Jul 8-Jul 18) from old to new structure.  >> to another week
-23. Presented progress of Client Services improvements and plan/needs for next tasks (iPads, Client Status redesign, 
+17. 
+18. Rolled out Activity names.  
+19. 
+20. Caught Debbie up with new Case Record hub structure.
+21. 
+22. 
+23. Monitored progress of operational steps taken to help facilitate/prepare for the redesign of Client Status.   Prepared questions and sample cases.  
+24. Monitored for issues after rollout of new Forms.   XX form may need a different setup.  Answered basic questions/clarifications from case management team as they arose. 
+25. Made adjustments to form layout and fields in FormTitan, including connections to/from Salesforce objects, and connections to printable version of forms.  
+26. Continued transferring recent data (Jul 8-Jul 18) from old to new structure.  >> to another week
+27. Refined paper version forms w Valentina. >> to another week.
+28. 
+29. Rolled out iPads!  
+30. Monitored for initial issues after rollout of iPads.  
+
 
 22. Observed a client intake conducted by case manager. >> to another week
 
