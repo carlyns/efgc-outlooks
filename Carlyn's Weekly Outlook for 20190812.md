@@ -27,10 +27,13 @@
 2. Prepped and imported online gifts; separate process for Walk registrations.  >> to another week
 3. Refined import steps to use ClassyID fields for matching contacts.  >> to another week
 4. Reviewed whether matching gifts coming through Amply requires extra reporting process.  Will definitely require manual linking of gifts that may be hard to track down.  >> to another week
+5. Recorded Picnic Mailing to Clients’ Case Records >> to another week
+6. Discovered Do Not Solicit does not auto-mark when contact is marked deceased.  >> to another week
+7. Communicated with Classy support about report templates that returned empty data.  This error interrupted the generation of three time-sensitive reports - recreated them from scratch.
 
 7. Continued discussing and testing options to handle matching gifts process, workplace giving gifts, and late-designated workplace/matching gifts with late designation requests. >> to another week
-8. Created reports for yearly finance audit: all gifts & restricted gifts.  
-9. Created reports for yearly finance audit to compare with special events: income & sponsorships.  
+8. Created reports for yearly finance audit: all gifts & restricted gifts.
+9. Created reports for yearly finance audit to compare with special events: income & sponsorships.
 10. Created Workplace FY19 first report for Fundraisers to analyze >> to another week
 
 11. Analyzed how mock DFI/DHS reports are affected by new Activity names using yearly and quarterly data. >> to another week
@@ -50,11 +53,12 @@
 21. Recreated 1009 reports to align with new case record structure.  >> to another week
 22. 
 23. Monitored progress of operational steps taken to help facilitate/prepare for the redesign of Client Status-Service.   Prepared questions and sample cases.  Incorporated feedback into structural design.  Discussed possible recategorization of Programs/Events/Education activities.  ??? status
-24. Monitored for issues after rollout of new Forms.   XX form may need a different setup.  Answered basic questions/clarifications from case management team as they arose.
-25. Refined paper version forms w Valentina. >> to another week.
-26. 
-27. Monitored for initial issues after rollout of iPads.  >> to another week.
-28. Addressed push/get integration errors between Forms and Case Record as they arose.  (income and age of onset data validation adjustments)
+24. Continued to design Status-Service structure in Salesforce [by running through categories and scenarios and operational procedures]
+25. Monitored for issues after rollout of new Forms.   XX form may need a different setup.  Answered basic questions/clarifications from case management team as they arose.
+26. Refined paper version forms w Valentina. >> to another week.
+27. 
+28. Monitored for initial issues after rollout of iPads.  >> to another week.
+29. Addressed push/get integration errors between Forms and Case Record as they arose.  (income and age of onset data validation adjustments)
 
 22. Observed a client intake conducted by case manager. >> to another week
 
