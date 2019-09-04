@@ -1,7 +1,7 @@
-## Carlyn's Weekly Outlook for 20190903
+## Carlyn's Weekly Outlook for 20190909
 ### Routine Tasks
 * Gift Entry
-* Monthly report for finance: Classy gifts >> move to first week of Sep
+* Monthly reports for finance: Classy & Roundup gifts >> move to first week of Oct
 * Letter Generation and Record Updates
 * Continue basic SF documentation - videos
 * Weekly Data Cleanup
@@ -24,14 +24,18 @@
 
 - - - -
 #### Last Week’s Summary:
-2. Assisted/attended Golf Outing.
-3. Prepped and imported online gifts; separate process for Walk registrations.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
-4. Streamlined main classification fields for gifts.  (Campaign, Appeal, Addl Notes)  Cleaned and moved existing data to new setup.   >> to another week
-5. Reviewed whether matching gifts coming through Amply requires extra reporting process.  Will definitely require manual linking of gifts that may be hard to track down.  >> to another week
-6. Investigated gifts in Amply portal awaiting donor action.  Each gift has unique steps not facilitated by Amply.  Some steps include: identifying the portal used by the employer, creating a portal account, identifying missing gift info (gift/employer IDs, etc), confirming the gift was made in Classy, confirming receipt of gift in portal, and updating the status of the gift in Amply.  Other gifts require more donor/portal actions, such as following up individually with donors, writing up instructions to donors to identify their gift/employer, or requesting portal links and gift IDs from employers.  
-7. Recorded Picnic Mailing to Clients’ Case Records >> to another week
-8. Discovered Do Not Solicit does not auto-mark when contact is marked deceased.  Researched this native SF function, troubleshooted, and rebuilt function.  >> to another week
-9. Followed up with Classy support about report templates that returned empty data.  Classy’s response was ?  >> to another week
+1. Located a $30 transaction causing a discrepancy between the Classy and WePay finance reports.   >> to another week
+2. Pulled a brand new list for Ayesha’s Consumer Conference.  Mailing list to go to clients.   >> to another week
+3. Generate year-end donor report for Development.  Setup rollup fields in Salesforce to use fiscal year as time period.   >> to another week
+4. Figure out what to do w SQL Penelope data.  >> to another week
+5. Some weird meeting w Leia, VA, TH, BA prob about Leia doing intakes.  
+6. Prepped and imported online gifts; separate process for Walk registrations.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
+7. Streamlined main classification fields for gifts.  (Campaign, Appeal, Addl Notes)  Cleaned and moved existing data to new setup.   >> to another week
+8. Reviewed whether matching gifts coming through Amply requires extra reporting process.  Will definitely require manual linking of gifts that may be hard to track down.  >> to another week
+9. Investigated gifts in Amply portal awaiting donor action.  Each gift has unique steps not facilitated by Amply.  Some steps include: identifying the portal used by the employer, creating a portal account, identifying missing gift info (gift/employer IDs, etc), confirming the gift was made in Classy, confirming receipt of gift in portal, and updating the status of the gift in Amply.  Other gifts require more donor/portal actions, such as following up individually with donors, writing up instructions to donors to identify their gift/employer, or requesting portal links and gift IDs from employers.
+10. Recorded Picnic Mailing to Clients’ Case Records >> to another week
+11. Discovered Do Not Solicit does not auto-mark when contact is marked deceased.  Researched this native SF function, troubleshooted, and rebuilt function.  >> to another week
+12. Followed up with Classy support about report templates that returned empty data.  Classy’s response was ?  >> to another week
 
 7. Continued discussing and testing options to handle matching gifts process, workplace giving gifts, and late-designated workplace/matching gifts with late designation requests. >> to another week
 8. Created Workplace FY19 first report for Fundraisers to analyze >> to another week
@@ -45,12 +49,12 @@
 */// Additional SF/Ops issues addressed: ///*
 17. Monitored for issues after rollout of new Forms.  Answered basic questions/clarifications from case management team as they arose.
 18. Refined paper version forms w Valentina. >> to another week.
-19. Monitored for issues after rollout of iPads.  ??any new?? >> to another week.  Apparently block pop ups setting doesn’t help.  No screenshots provided.  “Closeout” can mean a lot of things.  Log out fresh was advice.  
+19. Monitored for issues after rollout of iPads.  ??any new?? >> to another week.  Apparently block pop ups setting doesn’t help.  No screenshots provided.  “Closeout” can mean a lot of things.  Log out fresh was advice.
 20. Addressed push/get integration errors between Forms and Case Record as they arose.   >> to another week.  ??any new??
-21. Monitored for issues after rollout of streamlined Activity Unit Names. 
+21. Monitored for issues after rollout of streamlined Activity Unit Names.
 22. Continued basic UI improvements on Client Services objects: XXX Object.  Reviewing default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, clarifying tasks with case managers and other staff.  >> to another week
-23. Gave more character space for a few text fields per VA; coordinated 5+ related connections. >> to another week 
-24. Made adjustments to form layout and fields in FormTitan, including connections to/from Salesforce objects, and connections to printable version of forms.  (which fields now?) >> to another week 
+23. Gave more character space for a few text fields per VA; coordinated 5+ related connections. >> to another week
+24. Made adjustments to form layout and fields in FormTitan, including connections to/from Salesforce objects, and connections to printable version of forms.  (which fields now?) >> to another week
 25. Rolled out first version of Intake Summary Sheet. >> to another week
 26. Researched FormTitan options for in-between status for Intake Summary Sheet involving staffing signatures.  Might need a version 2.
 27. Revised language in Client Handbook to reflect new Forms/processes. >> to another week
@@ -63,7 +67,6 @@
 32. Started to build out redesigned Status-Service structure.  Stop Services: clean open/pending/closed status.  Consent In/Active: use date to auto-fill.   Use existing Service Files to label all child activities.  Consolidate existing Service Files to two.  Create Clinic section on Case Record and train/test.  Build Participation List feature from scratch.   >> to another week.
 33. EPIPHANY Concluded that time-based participation is critical distinction.   [took critical thinking and observing patterns/characteristics in engagement types, not exercises - WHO would’ve been able to discover that??]
 
-
 36. Reviewed concepts with case management team after observing incoming data patterns.  >> to another week
 37. Observed a client intake conducted by case manager. >> to another week
 
@@ -72,6 +75,6 @@
 
 - - - -
 ### Quarterly Goals
-*By endQ1 (sep30):* 2nd round of Client Services issues complete & 3rd round prioritized, Written documentation one-third done, Reassess object structure incl Bus. Development, Historical Client Services data plan created, State reporting generated from new Status-Service structure.
-*By midQ2 (nov15):* 3rd round of Client Services solutions done, Historical Client Services data plan underway, Donor-driven info updating, Written documentation two-thirds done, Certification exam, Brainstorm registration improvements, Profile settings plan created.
-*By endQ2 (dec31):*  Donor-driven info updating, Written documentation done, Profile settings plan underway, Reporting & dashboards.
+*By endQ1 (sep30):* 2nd round of Client Services issues complete & 3rd round prioritized, Written documentation one-third done, Historical Client Services data plan created, State reporting generated from new Status-Service structure.
+*By midQ2 (nov15):* 3rd round of Client Services solutions done, Reassess object structure incl Bus. Development, Donor-driven info updating, Written documentation two-thirds done, Certification exam, Brainstorm registration improvements, Profile settings plan created.
+*By endQ2 (dec31):*  Donor-driven info updating, Written documentation done, Historical Client Services data plan underway, Profile settings plan underway, Reporting & dashboards.
