@@ -17,7 +17,7 @@
 #### Last Week’s Summary:
 1. Investigated a discrepancy between the Classy and WePay finance reports. 
 2. Generated Consumer Conference client mailing list.  
-3. Prepped and imported online gifts; separate process for Walk registrations.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
+3. Prepped and imported online gifts; separate process for Walk registrations.  Refined import steps to use ClassyID fields for matching contacts. 
 4. Prepped and imported Golf Outing gifts.  
 5. Processed gifts in Amply portal awaiting action.  When possible, created portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  
 
