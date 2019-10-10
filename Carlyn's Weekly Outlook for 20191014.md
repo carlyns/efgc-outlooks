@@ -13,8 +13,8 @@
 ### Three Big SF Issues to assess/tackle: [potential blocks***]
 1. Continue Client Services improvements through UI.  Continue research, design & preparation for structural improvements.  Establish prevention (temp if needed), consolidate sources if data is missing, perform cleanup for each.
 2. Troubleshoot, redesign, and rebuild existing hard-coded components and disconnections discovered while executing improvements.
-3. Design how new reporting requirements can be captured in database based on Operations adjustments.  Build, test, and roll-out these new features.  Test report generation using new features.   
-4. Incorporate new structural design changes into quarterly and end of year state reports and coordinate with Client Services operations.  
+3. Design how new reporting requirements can be captured in database based on Operations adjustments.  Build, test, and roll-out these new features.  Test report generation using new features.
+4. Incorporate new structural design changes into quarterly and end of year state reports and coordinate with Client Services operations.
 5. 
 6. Investigate the strange behavior caused when merging Contact records: leftover anonymous empty accounts, leftover addresses.
 7. Investigate strange import behavior: a) When Donations’ primary contact is not Account’s primary contact, matching doesn’t happen.  b) When multiple donations are from the same donor, “Insert” throws an error, sometimes “Update” too.  c) Name matching includes middle name but not alternate names.  (>> Understand consequences and limitations of matching by email. )
@@ -29,8 +29,9 @@
 1. DHS curveball
 2. DFI Quarterly report
 3. Prepped and imported online gifts; separate process for Walk registrations.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
-4. Edu staff training for SF
-5. 
+4. Imported remaining day-of walk registrations and donations to SF.  
+5. Edu staff training for SF
+6. 
 
 12. Figure out what to do w SQL Penelope data.  >> to another week
 13. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in). >> to another week
@@ -77,9 +78,8 @@
 22. Any new surprises?  There is a definite need for training on Object Structure - but when and who?  and how to cleanup existing?  >> to another week
 23. Possibly research parent-child Account structure and Record Types for Biz Dev >> to another week
 
-- - - -
-### Quarterly Goals
+---### Quarterly Goals
 *By midQ2 (nov15):* Coordinate with Client Services Operations to restructure how reporting requirements are stored and fed into Salesforce, Written documentation two-thirds done, Reassess object structure incl Bus. Development, Profile settings plan created.
 *By endQ2 (dec31):* State reporting generated from new Status-Service structure, 2nd round of Client Services issues complete & 3rd round prioritized, Donor-driven info updating, Written documentation done, Historical Client Services data plan created, Profile settings plan underway, Certification exam.
 *By midQ3 (feb15):* 3rd round of Client Services solutions complete & 4th round prioritized, Historical Client Services data plan underway, Brainstorm registration improvements, Reporting & dashboards.
-*By endQ3 (mar31):* 4th round of Client Services solutions complete, 
+*By endQ3 (mar31):* 4th round of Client Services solutions complete,
