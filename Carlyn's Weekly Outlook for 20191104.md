@@ -14,6 +14,9 @@
 3. Design how new reporting requirements can be captured in database based on Operations adjustments.  Build, test, and roll-out these new features.  Test report generation using new features.
 4. Incorporate new structural design changes into quarterly and year-end state reports and coordinate with Client Services operations.
 
+### Assistance
+* Support from leadership to verify the main pieces of information required for state reporting.  Once verified, these can influence / set the stage for Operations.  Then database and related reports can be setup accordingly.  
+
 - - - -
 #### Last Week’s Summary:
 1. Finalized mailing list for Holiday Cards.  

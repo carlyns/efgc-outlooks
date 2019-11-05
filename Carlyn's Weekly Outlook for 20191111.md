@@ -24,6 +24,9 @@
 11. Investigate the strange behavior caused when merging Contact records: leftover anonymous empty accounts, leftover addresses.
 12. Another stab at the crazy Duplicate rules …
 
+### Assistance
+* Support from leadership to verify the main pieces of information required for state reporting.  Once verified, these can influence / set the stage for Operations.  Then database and related reports can be setup accordingly.  
+
 - - - -
 #### Last Week’s Summary:
 2. Prepped and imported online gifts.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
