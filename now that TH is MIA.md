@@ -1,0 +1,7 @@
+# now that TH is MIA
+## these items are prob not gonna happen
+*/// Additional SF/Ops issues addressed: ///*
+13. More discussion on blaming leaders for not doing their to-dos.  And request that I write up the cheat sheet for them.  >> did it ever get brought up again
+14. (12/16 report of week before) 1 hour meeting about “inefficiency” and “ineffectiveness” of database all bc reports aren’t tailored - yet data is there.  and can’t do their job.  CMs can; she can’t bc can’t comprehend?  specifically expiring consent with all info to act on, yet never reviewed / understood or used.   just the fact that it’s not automated to CMs to bypass her so she doesn’t have to manage.  and the batch of internal team reports are still being done; sure after Status-Service Redesign, but didn’t i say i was 90% done?  also they are pretty much done and one-click.  setup was never done right, but it doesn’t mean i can’t now produce reports that are not actionable.  structure makes other things about admin, collection, viewing, more complex, yes reports might need to be combined but still very rich in info.
+15. Receive weekly 15 min report about Client Services (Operations) perspective on Salesforce issues.  So she can talk more about nothing?  >> to another week
+16. Addressed Client Services’ concerns about Salesforce reports, including reminders of already-created reports containing information requested.   again??
