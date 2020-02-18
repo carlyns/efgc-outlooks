@@ -31,9 +31,10 @@
 8. Called SF Support about validation rule on comparing the total units from the Activity’s duration with the total quantity of units inputted.  They couldn’t understand how to write the formula, so they suggested a custom field, which was the original alternative.
 9. Removed old test option from E-Forms dropdown list via the Developer console.
 10. Built new Process to trigger “open” Case Status anytime Consent was re/established.
-11. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
-12. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
-13. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
+11. Attended DHS webinar.  
+12. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
+13. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
+14. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
 
 - - - -
 ### Quarterly Goals
