@@ -1,7 +1,7 @@
-## Carlyn's Weekly Outlook for 20200302
+## Carlyn's Weekly Outlook for 20200316
 ### Routine Tasks
 * Gift Entry
-* Monthly reports for finance: Classy & Roundup gifts >> move to first week of Mar
+* Monthly reports for finance: Classy & Roundup gifts >> move to first week of Apr
 * Letter Generation and Record Updates
 * Continue basic SF documentation
 * Weekly Data Cleanup
@@ -28,12 +28,13 @@
 
 - - - -
 #### Last Week’s Summary:
-1. Prepped and imported online gifts.  Refined import steps to use ClassyID fields for matching contacts.  >> to another week
-2. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
-3. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
-4. 2 hours to do lookup for gala attendee contact info.
-5. Certification exam on Friday
-6. 
+1. Prepped and imported online gifts using 3-step preparation templates.  >> to another week
+2. Continued to streamline date values for gifts to better reconcile with finance by updating all existing FY20 gifts for consistentcy.  
+3. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
+4. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
+5. 2 hours to do lookup for gala attendee contact info.
+6. Certification exam on Friday
+7. 
 
 7. Imerman discussion >> to another week
 8. Received/processed feedback for first version of Client Services Salesforce manual to leadership for feedback/markup.   Added suggestions to GoogleDoc.  >> to another week
@@ -54,7 +55,7 @@
 18. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
 19. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
 20. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
-21. Reviewed State of Database with BJ.  
+21. Reviewed State of Database with BJ.
 22. Revised profiles for Program to create case records
 23. Continued to design UI for DHS codes for Types of Seizures.  Designing UI for streamlined values and accurate responses, given ~40 values and multiple selection is possible.
 24. Refined paper version forms w Valentina. >> to another week.
