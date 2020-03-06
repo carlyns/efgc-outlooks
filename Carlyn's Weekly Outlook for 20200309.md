@@ -18,34 +18,29 @@
 
 - - - -
 #### Last Two Weeks’ Summary:
-1. Prepped and imported online gifts using 3-step preparation templates.  Remapped values in import templates to accommodate this year’s walk (each year the event fields change).  
-2. Streamlined date values for gifts to better reconcile with finance.  
+1. Prepped and imported online gifts using 3-step preparation templates.  Remapped values in import templates to accommodate this year’s walk (each year the event fields change).
+2. Streamlined date values for gifts to better reconcile with finance.
 3. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
 4. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
-5. Received/processed feedback for first version of Client Services Salesforce manual from leadership. 
-6. Created source report to perform contact information lookup for gala attendee registration.  Mapped fields after cleaning up name data.  
-7. Passed Salesforce Administration Certification exam.  
-8. Attended and assisted at Annual Gala. 
-9. Generated report showing demographics of DFI clients with activity in FY20 to date.  
-10. Troubleshooted a Create New Donation error?? >> to another week
-11. Imported Gala Donations?
-12. Created and sent out gala in-kind donation thank you emails.  
-13. 
-
-
-
+5. Received/processed feedback for first version of Client Services Salesforce manual from leadership.
+6. Created source report to perform contact information lookup for gala attendee registration.  Mapped fields after cleaning up name data.
+7. Passed Salesforce Administration Certification exam.
+8. Attended and assisted at Annual Gala.
+9. Generated report showing demographics of DFI clients with activity in FY20 to date.
+10. Prepped spreadsheet for importing night-of gala donations.  
+11. Created and sent out gala in-kind donation thank you’s.
 
 */// Additional SF/Ops issues addressed: ///*
-18. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
-19. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
-20. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
-21. Reviewed State of Database presentation with supervisor.
-22. Revised profiles for Program to create case records.
-23. Instructed Business Development staff how to format report for basic contact information in preparation for a potential import.  
-24. Had to explain to JV about reports that TH already had, that i created as a copy for him for that specific rush task, and that TH should be running/asking about those reports herself.  And exec instruction to say no.  
-25. Prepared data and structure for creation of demographic report for DFI Narrative which included: Updating Case Records with DFI and DHS values based on income and age of onset criteria.  Redesign of the connection between Case Record - Activity to relate these two objects within a report.  Turned off validation rules and required fields to allow for update.  
-26. Programmed Process Builder to populate the Case Record number into any Activity created based on its Service File.  Connected all Activities to a Case Record based on its Service File.  
-27. Designed and drafted three new objects to better accommodate tributes,  gift notifications, and general correspondence related to a donation.  
+12. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
+13. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
+14. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
+15. Reviewed State of Database presentation with supervisor.
+16. Revised profiles for Programs staff to create case records.
+17. Instructed Business Development staff how to format report for basic contact information in preparation for a potential import.
+18. Clarified which reports existed already for VP of Client Services and assisted some staff members with using filters.  
+19. Prepared data and structure for creation of demographic report for DFI Narrative which included: Updating Case Records with DFI and DHS values based on income and age of onset criteria.  Redesign of the connection between Case Record - Activity to relate these two objects within a report.  Turned off validation rules and required fields to allow for update.
+20. Programmed Process Builder to populate the Case Record number into any Activity created based on its Service File.  Connected all Activities to a Case Record based on its Service File.
+21. Designed and drafted three new objects to better accommodate tributes,  gift notifications, and general correspondence related to a donation.  Still in testing.  
 
 - - - -
 ### Quarterly Goals

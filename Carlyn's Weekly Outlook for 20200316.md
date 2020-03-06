@@ -29,12 +29,13 @@
 - - - -
 #### Last Week’s Summary:
 1. Prepped and imported online gifts using 3-step preparation templates.  >> to another week
-2. Continued to streamline date values for gifts to better reconcile with finance by updating all existing FY20 gifts for consistentcy.  
+2. Continued to streamline date values for gifts to better reconcile with finance by updating all existing FY20 gifts for consistency.
 3. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
 4. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
-5. 2 hours to do lookup for gala attendee contact info.
-6. Certification exam on Friday
-7. 
+5. Imported night-of gala donations.  
+6. Researched adding Salesforce licenses one by one.  
+7. Added Salesforce users for two new interns.  
+
 
 7. Imerman discussion >> to another week
 8. Received/processed feedback for first version of Client Services Salesforce manual to leadership for feedback/markup.   Added suggestions to GoogleDoc.  >> to another week
@@ -55,29 +56,27 @@
 18. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
 19. Monitored for issues after rollout of Forms, iPads, Activity Unit Names, Interactions object.  Answered basic questions/clarifications from case management team as they arose.
 20. Monitored for issues after rollout of Service File structure and Activity Label.  Answered basic questions/clarifications from case management team as they arose.
-21. Reviewed State of Database with BJ.
-22. Revised profiles for Program to create case records
-23. Continued to design UI for DHS codes for Types of Seizures.  Designing UI for streamlined values and accurate responses, given ~40 values and multiple selection is possible.
-24. Refined paper version forms w Valentina. >> to another week.
-25. Addressed push/get integration errors between Forms and Case Record as they arose.   >> to another week.  ??any new??
-26. Continued to give refreshers to CMs on the initial intake steps. >> to another week.
-27. Any decision/plan made to redesign initial intake steps to be less dependent on the Process Builder and Flow Builder variables?  not sure if i could come up with a better solution, esp if some CMs aren’t doing initial intake steps at all.  >> to another week.
-28. 
-29. Had staff test revised Business Development structure in sandbox.  >> to another week
-30. Small tweaks to Sandbox draft.
-31. Need to contact SF about displaying child accounts, affiliated contacts, and record type prompt.   >> to another week.
-32. 
-33. Startup Phase 2 of Status-Service structural redesign: Participation list.  >> to another week
-34. Troubleshooted a Create New Donation error >> to another week
-35. 
-36. Continued basic UI improvements on Client Services objects: XXX Object.  Reviewing default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, clarifying tasks with case managers and other staff.  >> to another week
-37. Rolled out first version of Intake Summary Sheet. >> to another week
-38. Researched FormTitan options for in-between status for Intake Summary Sheet involving staffing signatures.  Might need a version 2.
-39. 
-40. for consistency when creating mailing lists.  revised values to show Do Not Contact / Solicit distinction.  Attempted to build process builder to replicate solicitation values from Contact to Accounts (but realized same issue with batch edit)  Need to research if this is a native SF function, possibly rebuild function.  >> to another week
-41. iPad login redirect issue.  Reopen this case with SF Support to see if i can find a competent developer.  To see if there is actual javascript code that can work around the login redirect screen  >> to another week.
-42. Reviewed concepts with case management team after observing incoming data patterns.  >> to another week
-43. Observed a client intake conducted by case manager. >> to another week
+21. Continued to design UI for DHS codes for Types of Seizures.  Designing UI for streamlined values and accurate responses, given ~40 values and multiple selection is possible.
+22. Refined paper version forms w Valentina. >> to another week.
+23. Addressed push/get integration errors between Forms and Case Record as they arose.   >> to another week.  ??any new??
+24. Continued to give refreshers to CMs on the initial intake steps. >> to another week.
+25. Any decision/plan made to redesign initial intake steps to be less dependent on the Process Builder and Flow Builder variables?  not sure if i could come up with a better solution, esp if some CMs aren’t doing initial intake steps at all.  >> to another week.
+26. 
+27. Had staff test revised Business Development structure in sandbox.  >> to another week
+28. Small tweaks to Sandbox draft.
+29. Need to contact SF about displaying child accounts, affiliated contacts, and record type prompt.   >> to another week.
+30. 
+31. Startup Phase 2 of Status-Service structural redesign: Participation list.  >> to another week
+32. Troubleshooted a Create New Donation error? >> to another week
+33. again? Clarified which reports existed already for VP of Client Services and assisted some staff members with using filters.  
+34. Continued basic UI improvements on Client Services objects: XXX Object.  Reviewing default and required fields, scoping the cleanup necessary, preparing cleanup sheets, hiding/reordering sections and fields, clarifying tasks with case managers and other staff.  >> to another week
+35. Rolled out first version of Intake Summary Sheet. >> to another week
+36. Researched FormTitan options for in-between status for Intake Summary Sheet involving staffing signatures.  Might need a version 2.
+37. 
+38. for consistency when creating mailing lists.  revised values to show Do Not Contact / Solicit distinction.  Attempted to build process builder to replicate solicitation values from Contact to Accounts (but realized same issue with batch edit)  Need to research if this is a native SF function, possibly rebuild function.  >> to another week
+39. iPad login redirect issue.  Reopen this case with SF Support to see if i can find a competent developer.  To see if there is actual javascript code that can work around the login redirect screen  >> to another week.
+40. Reviewed concepts with case management team after observing incoming data patterns.  >> to another week
+41. Observed a client intake conducted by case manager. >> to another week
 
 - - - -
 ### Quarterly Goals
