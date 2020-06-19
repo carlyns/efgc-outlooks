@@ -1,4 +1,4 @@
-## Carlyn's Weekly Outlook for 20200622
+## Carlyn's Weekly Outlook for 20200706
 ### Routine Tasks
 * Gift Entry
 * Monthly reports for finance: Classy & Roundup gifts >> move to first week of July
@@ -28,16 +28,15 @@
 
 - - - -
 #### Last Week’s Summary:
-1. Prepped and imported online gifts using 3-step templates.  >> to another week
-2. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
-3. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
-4. address cache org message by testing in sandbox per 5/29 email?
-5. Spanish Conference mailing list?  
+1. Finalized Spanish Conference mailing list.  ????
+2. Prepped and imported online gifts using 3-step templates.  >> to another week
+3. Coordinated gifts with designations to Walk, Marathon, and Third Party events from various sources (Facebook fundraisers, workplaces, mailed-in).
+4. Processed gifts in Amply portal awaiting action.  When possible, created a portal account, gathered gift/employer IDs, verified gift was received, updated gift status in portal and Amply.  Compared Amply report with dashboard.
+5. address cache org message by testing in sandbox per 5/29 email?
 6. 
-7. Streamlined classification fields for Marathon donations to allow for filter of registrations.  Cleaned and moved existing data to new setup.
-8. 
-9. Considered adding more Salesforce licenses.  any more comments on this??  >> to another week
-10. Being the authority on explaining the DHS/DFI Quarterly reports to Stacy as ordered by BJ that “we’re” walking her through it.  >> to another week
+7. 
+8. Assisted with setup of purchasing more Salesforce licenses for contract renewal.  Sent contract for approval to BJ???
+9. Meeting with Bryan and Stacy Monday about color-coded DHS reqs, focus on SF-tracked items
 
 7. Imerman discussion >> to another week
 8. Received/processed feedback for first version of Client Services Salesforce manual to leadership for feedback/markup.   Added suggestions to GoogleDoc.  >> to another week
@@ -54,12 +53,11 @@
 */// Additional SF/Ops issues addressed: ///*
 18. Monitored lite versions of internal team reports: satisfaction questions, expiring consent, direct referrals, etc.
 19. Monitored for issues related to Forms changes, iPads, Activity Unit Names, Interactions object, Service File structure and Activity Label.  Answered basic questions/clarifications from staff as they arose.
-20. Communicated with SF Support regarding where/how to control mapping of new fields on Cal Activity that get duplicated when assigned to multiple staff members.  After following instructions, they suggested doing a change set from sandbox but couldn’t give direct assistance.  Failed tests led to a failed deployment so they may offer an alternative way to deploy apex class change.
-21. Prioritized project: Wrapped up steps to archive Case Notes and solely use Activities.  Made the new structure visible on all relevant screens and hid the Case Notes on all relevant screens.  Checked for any last direct referrals.  Reset the DHS reports and leadership reports that are affected to ensure they are still pulling the same info.  Worked with Stacy on rollout and outlined points for 6/19 presentation.  Monitored use/issues after rollout.
-
-23. Continued to design UI for DHS codes for Types of Seizures.  Designing UI for streamlined values and accurate responses, given ~40 values and multiple selection is possible. >> to another week
-24. Continued to test draft objects and connections to better handle Correspondence records, Tributes and Notifications from donations.  >> to another week, but doesn’t seem to be worth doing.
-25. Continued to filter through and remove obsolete reports. >> to another week
+20. Monitored issues and answered questions from staff after eliminating the use of Case Notes and updating Activity screens.  
+21. FOUR??? case record cleanups required importing due to number of records to move.  >> to another week
+22. Continued to design UI for DHS codes for Types of Seizures.  Designing UI for streamlined values and accurate responses, given ~40 values and multiple selection is possible. >> to another week
+23. Continued to test draft objects and connections to better handle Correspondence records, Tributes and Notifications from donations.  >> to another week, but doesn’t seem to be worth doing.
+24. Continued to filter through and remove obsolete reports. >> to another week
 
 27. Addressed push/get integration errors between Forms and Case Record as they arose.   >> to another week.  ??any new??
 28. Continued to give refreshers to CMs on the initial intake steps. >> to another week.
@@ -78,6 +76,6 @@
 
 - - - -
 ### Quarterly Goals
-*By endQ4 (jun30):* Gifts Documentation complete, Admin Documentation complete, 4th round of Client Services solutions complete, another round of Client Services solutions prioritized.
-*By midQ1 (aug15):* Increased support for Finance/Ops, Research Classy-Mailchimp sync and Donor-driven info updating, Explore dashboards
-*By endQ1 (sep30):* Supplemental video documentation, Advanced Admin Certification.
+*By midQ1 (aug15):* Gifts Documentation complete, Admin Documentation complete, 5th round of Client Services solutions complete, another round of Client Services solutions prioritized.
+*By endQ1 (sep30):* Increased support for Finance/Ops, Research Classy-Mailchimp sync and Donor-driven info updating, Explore dashboards
+*By midQ2 (nov15):* Supplemental video documentation, pure administration.
