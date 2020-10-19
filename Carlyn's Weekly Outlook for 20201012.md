@@ -22,11 +22,11 @@
 3. Compiled, calculated, and formatted all data and attachments for DFI and DHS Quarterly reporting.  Reviewed DHS data with head of Client Services department. 
 
 */// Additional SF/Ops issues addressed: ///*
-4. Monitored for issues related to Forms changes, iPads, Activity Unit Names, Interactions object, Service File structure, Activity Label, Activity Case Notes Public Events.  Answered basic questions/clarifications from staff as they arose.
-5. Continued to delete obsolete fields from Contact object, locating hard connections where necessary. 
-6. Continued to investigate matching rules, duplicate rules, and duplicate record sets.  Matching rules and duplicate rules have been remedied to identify the most risky situations, but correcting duplicates is still manual, especially when same phone/email is listed for multiple records.  
-7. Errors are being thrown when attempting to move household members to different households.  Possibly connected to removing obsolete fields.  Continuing to investigate and troubleshoot.  
-8. Continued testing and drafting how to handle syncing affiliation Addresses.   
+1. Monitored for issues related to Forms changes, iPads, Interactions, Service File structure, Activities, Public Events.  Answered basic questions/clarifications from staff as they arose.
+2. Continued to delete obsolete fields from Contact object, locating hard connections where necessary. 
+3. Continued to investigate matching rules, duplicate rules, and duplicate record sets.  Matching rules and duplicate rules have been remedied to identify the most risky situations, but correcting duplicates is still manual, especially when same phone/email is listed for multiple records.  
+4. Errors are being thrown when attempting to move household members to different households.  Possibly connected to removing obsolete fields.  Continuing to investigate and troubleshoot.  
+5. Continued testing and drafting how to handle syncing affiliation Addresses.   
 
 - - - -
 ### Quarterly Goals
